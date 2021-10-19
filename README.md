@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GabrielThinassi
+- 👀 I’m interested in WebApps and APIs
+- 🌱 I’m currently learning ReactJS/ReactNative/NodeJS
+- 💞️ I’m looking to collaborate on WebApps
+- 📫 How to reach me: https://www.linkedin.com/in/gabriel-moreira-thinassi-8a9642164/
